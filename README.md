@@ -21,6 +21,7 @@ This is a Python-based web application for BOCRA. The app is designed to be resp
 1. Make sure your MySQL database is running and configured correctly.  
 2. Update the database settings in your Python code as needed.  
 3. Install required Python libraries:
+4. download src.zip
 
 ```bash
 pip install -r requirements.txt
@@ -29,6 +30,13 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+#Watch this  videos 2-5 minutes each
+1.apiandai.mp4
+2.login.avi
+3.livechat.avi
+4.register.avi
+5
 
 # Live Website
 bocra.65bugs.com
