@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-#Watch this  videos 2-5 minutes each
+# Watch this  videos 2-5 minutes each
 -1.apiandai.mp4
 -2.login.avi
 -3.livechat.avi
