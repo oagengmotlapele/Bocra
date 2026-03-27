@@ -32,10 +32,10 @@ python main.py
 ```
 
 #Watch this  videos 2-5 minutes each
-1.apiandai.mp4
-2.login.avi
-3.livechat.avi
-4.register.avi
+-1.apiandai.mp4
+-2.login.avi
+-3.livechat.avi
+-4.register.avi
 5
 
 # Live Website
